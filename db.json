@@ -1,12 +1,16 @@
-[
-  {
-    "id": 1,
-    "firstName": "Madusara",
-    "lastName": "Liyanage"
-  },
-  {
-    "id": 2,
-    "firstName": "Shanika",
-    "lastName": "Madhuwanthi"
-  }
-]
+{
+  users: [
+    {
+      "id": 1,
+      "firstName": "Madusara",
+      "lastName": "Liyanage",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "firstName": "Shanika",
+      "lastName": "Madhuwanthi",
+      "count": 0
+    }
+  ]
+}
